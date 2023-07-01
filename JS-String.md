@@ -180,6 +180,7 @@ document.getElementById("demo").innerHTML = text;
 var text = "HELLO WORLD";
 document.getElementById("demo").innerHTML = text.charAt(0);//H
 ````
+
 ---
 ---
 - split() : can be converted to an array with the **split()** method
@@ -300,3 +301,7 @@ document.getElementById("demo").innerHTML = text.endsWith("world", 11);
 ```
 ----
 ----
+
+
+
+
