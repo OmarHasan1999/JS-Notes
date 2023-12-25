@@ -1,0 +1,39 @@
+body{
+    width: 4000px;
+    height: 4000px;
+    behavior: smooth;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.but{
+    color:aliceblue;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    bottom: 20px;
+    right: 20px;
+    font-weight: 700;
+    position: fixed;
+    display: none;
+    cursor: pointer;
+}
+.links{
+    width: 100%;
+    height: 120px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset;
+    position: fixed;
+}
+.child{
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: 30px;
+    font-weight: 700;
+    color:black
+}
