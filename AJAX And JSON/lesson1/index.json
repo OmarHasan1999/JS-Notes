@@ -1,0 +1,11 @@
+{
+    "str" : "omar",
+    "num" : 12,
+    "country": {
+        "syria": "homs",
+        "jordan": "amman"
+    },
+    "array" : ["html","css","js"],
+    "boolean" : true,
+    "null" : null
+}
